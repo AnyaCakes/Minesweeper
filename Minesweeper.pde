@@ -179,7 +179,7 @@ public class MSButton
 
         rect(x, y, width, height);
         fill(0);
-        text(label,x+width/2,y+height/2+10);
+        text(label,x+width/2,y+height/2+15);
     }
     public void setLabel(String newLabel)
     {
